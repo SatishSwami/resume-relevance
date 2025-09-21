@@ -1,0 +1,9 @@
+﻿streamlit
+PyMuPDF
+python-docx
+sentence-transformers
+openai
+rapidfuzz
+pandas
+numpy
+matplotlib
